@@ -4,7 +4,7 @@ This project is a tool for obfuscating Python code. It uses the `ast` module to 
 
 ## Project structure
 
-- ** `main.py`**: The main file containing the obfuscation logic.
+- **`main.py`**: The main file containing the obfuscation logic.
 - **`sources/in.py`**: Input file containing the source code to be obfuscated.
 - **`sources/out.py`**: Output file with the obfuscated code.
 
